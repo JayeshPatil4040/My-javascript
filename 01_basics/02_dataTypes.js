@@ -5,5 +5,11 @@
 console.log
 (
     "Hello world "
-) // we should not write this sentact , code should be readable 
+) // we should not write this in sentact , code should be readable 
+
+let Name = undefined;
+let age = 50;
+
+console.log(typeof age);
+console.log(typeof Name)
 
