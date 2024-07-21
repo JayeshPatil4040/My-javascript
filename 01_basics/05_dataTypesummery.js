@@ -21,5 +21,20 @@ const BigInt = 3405456666777888669n
 console.log(BigInt);
 
 // Reference type (Non primitive)
+// In this data type the orignal values are also change
+//e.g
+
+let referenceValues = {
+    Name : "Adam",
+    email : "Adam343@gmail.com"
+}
+
+let newEmail = referenceValues; 
+newEmail.email = "dmo342@gmail.com"
+
+console.log(referenceValues.email);
+console.log(newEmail.email);
+
+// In this example the value of email is also change when we change the value of newEmail 
 
 // Array , Function , Odjects
