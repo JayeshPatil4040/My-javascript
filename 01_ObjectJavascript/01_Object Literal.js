@@ -1,3 +1,7 @@
+// This is an singleton object 
+let creatlObj = new Object()
+
+// This is nonsingleton odject 
 let Password = Symbol("Password")
 let myObj = {
     Name : "Alex",
@@ -12,7 +16,7 @@ let myObj = {
     [Password] : "12345",
     Phone : "1234567890",
     PaymentResponse : "Success"
-}
+} 
 
 
 console.log(myObj.Address.City)
