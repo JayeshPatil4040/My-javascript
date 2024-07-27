@@ -1,7 +1,7 @@
-// There are to types of mamery there are 
+// There are two types of mamery there are 
 // stack and heap 
-// stack mamery are used in all primitive data type
-//Heap mamery are used in all reference data type
+// stack mamery are used in all primitive data types
+//Heap mamery are used in all reference data types
 
 // Example 
 
