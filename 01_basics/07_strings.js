@@ -38,5 +38,6 @@ let usetrim = "    jayesh    ";
 // console.log(usetrim.trim());
 
 let converArray = "jayesh-patil-19"
+// split converts a strings into a array 
 let converedArray = converArray.split("-")
 // console.log(converedArray)
