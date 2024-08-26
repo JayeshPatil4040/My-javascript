@@ -1,5 +1,5 @@
 // Primitive types
-// In primitive data type the orignal does not change 
+// In primitive data type the orignal values does not change 
 // E.g
 
 let primitive = "Test message";
